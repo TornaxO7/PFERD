@@ -22,6 +22,9 @@ ambiguous situations.
 
 ## Unreleased
 
+### Added
+- `pass` authenticator
+
 ## 3.3.1 - 2022-01-15
 
 ### Fixed
